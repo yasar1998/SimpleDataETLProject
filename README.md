@@ -12,7 +12,8 @@ Data is extracted from both the given .json and .csv files (which were populated
 
 ### Loading of Data
 Final DataSet after all operations loads into both .csv files
-![Screenshot from 2021-05-31 03-26-18](https://user-images.githubusercontent.com/31879611/120127573-ffd51100-c1bf-11eb-9f9b-fe5d6383e2fc.png)
+![Screenshot from 2021-05-31 03-47-45](https://user-images.githubusercontent.com/31879611/120128750-0dd86100-c1c3-11eb-962c-81ebffd89ae1.png)
+
 
 and .json file
 
