@@ -4,7 +4,7 @@
 ### Extraction of Data
 Data is extracted from both the given .json and .csv files (which were populated with data about people)
 
-### Cleaning of Data
+### Cleaning and Transformation of Data
 1. Data which come from both files merges into one dataset
 2. NULL values removed from the dataset
 3. Duplicated values removed from the dataset
