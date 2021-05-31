@@ -30,7 +30,7 @@ extract = removeNullValues(extract)
 extract = removeDuplicates(extract)
 extract['body_mass_index'] = calculateBMI(extract['weight'], extract['height'])
 
-extract.to_csv('resources/load.csv')
+extract.to_csv('resources/load.csv', index=False)
 extract.to_json('resources/load.json', orient='records', indent=2)
 
 print(extract)
