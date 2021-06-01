@@ -18,3 +18,6 @@ Final DataSet after all operations loads into both .csv files
 and .json file
 
 ![Screenshot from 2021-05-31 03-24-21](https://user-images.githubusercontent.com/31879611/120127467-bd133900-c1bf-11eb-9632-d1b36ae55f8c.png)
+
+### Technologies: 
+Python (Pandas library)
